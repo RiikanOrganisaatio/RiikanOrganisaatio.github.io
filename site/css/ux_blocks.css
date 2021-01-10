@@ -1207,3 +1207,7 @@ header + header {
 .main-image {
   border-radius: 25%;
 }
+
+.fr-navbar {
+  width: 275px;
+}
